@@ -26,10 +26,11 @@ In this table, you can find the successive versions of this CMSIS Device compone
 CMSIS Device L5 | CMSIS Core | Was delivered in the full MCU package
 --------------- | ---------- | -------------------------------------
 Tag v1.0.0 | Tag v5.4.0_cm33 | Tag v1.1.0
+Tag v1.0.2 | Tag v5.4.0_cm33 | Tag v1.2.0
 
 The full **STM32CubeL5** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeL5).
 
 ## Troubleshooting
-If you have any issue with the **Software content** of this repo, you can [file an issue on Github](https://github.com/STMicroelectronics/cmsis_device_l5/issues/new).
+If you have any issue with the **Software content** of this repo, you can [file an issue on Github](https://github.com/STMicroelectronics/cmsis_device_l5/issues/new/choose).
 
 For any other question related to the product, the tools, the environment, you can submit a topic on the [ST Community/STM32 MCUs forum](https://community.st.com/s/group/0F90X000000AXsASAW/stm32-mcus).
