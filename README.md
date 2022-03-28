@@ -35,6 +35,7 @@ Tag v1.0.0 | Tag v5.4.0_cm33 | Tag v1.1.0 (and following, if any, till next CMSI
 Tag v1.0.2 | Tag v5.4.0_cm33 | Tag v1.2.0 (and following, if any, till next CMSIS tag)
 Tag v1.0.3 | Tag v5.6.0_cm33 | Tag v1.3.0 (and following, if any, till next CMSIS tag)
 Tag v1.0.4 | Tag v5.6.0_cm33 | Tag v1.4.0 (and following, if any, till next CMSIS tag)
+
 The full **STM32CubeL5** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeL5).
 
 ## Troubleshooting
